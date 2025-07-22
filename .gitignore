@@ -3,3 +3,4 @@
 *.lock
 EXTRA/
 osmotic_calculations/
+*pycache*
