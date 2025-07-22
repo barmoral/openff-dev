@@ -1,0 +1,242 @@
+[
+    {
+        "os_press_mean": {
+            "value": 232.2101,
+            "unit": "bar"
+        },
+        "os_press_var": {
+            "value": 15.8943,
+            "unit": "bar**2"
+        },
+        "os_coeff_mean": 1.1909,
+        "os_coeff_var": 0.0004
+    },
+    {
+        "os_press_mean": {
+            "value": 233.4576,
+            "unit": "bar"
+        },
+        "os_press_var": {
+            "value": 16.2679,
+            "unit": "bar**2"
+        },
+        "os_coeff_mean": 1.2009,
+        "os_coeff_var": 0.0004
+    },
+    {
+        "os_press_mean": {
+            "value": 238.6435,
+            "unit": "bar"
+        },
+        "os_press_var": {
+            "value": 37.2527,
+            "unit": "bar**2"
+        },
+        "os_coeff_mean": 1.2247,
+        "os_coeff_var": 0.001
+    },
+    {
+        "os_press_mean": {
+            "value": 241.0001,
+            "unit": "bar"
+        },
+        "os_press_var": {
+            "value": 31.7341,
+            "unit": "bar**2"
+        },
+        "os_coeff_mean": 1.2395,
+        "os_coeff_var": 0.0008
+    },
+    {
+        "os_press_mean": {
+            "value": 241.3289,
+            "unit": "bar"
+        },
+        "os_press_var": {
+            "value": 15.6065,
+            "unit": "bar**2"
+        },
+        "os_coeff_mean": 1.2398,
+        "os_coeff_var": 0.0004
+    },
+    {
+        "os_press_mean": {
+            "value": 236.1272,
+            "unit": "bar"
+        },
+        "os_press_var": {
+            "value": 15.1339,
+            "unit": "bar**2"
+        },
+        "os_coeff_mean": 1.2111,
+        "os_coeff_var": 0.0004
+    },
+    {
+        "os_press_mean": {
+            "value": 247.4133,
+            "unit": "bar"
+        },
+        "os_press_var": {
+            "value": 19.1579,
+            "unit": "bar**2"
+        },
+        "os_coeff_mean": 1.269,
+        "os_coeff_var": 0.0005
+    },
+    {
+        "os_press_mean": {
+            "value": 228.4169,
+            "unit": "bar"
+        },
+        "os_press_var": {
+            "value": 15.7599,
+            "unit": "bar**2"
+        },
+        "os_coeff_mean": 1.1741,
+        "os_coeff_var": 0.0004
+    },
+    {
+        "os_press_mean": {
+            "value": 229.7956,
+            "unit": "bar"
+        },
+        "os_press_var": {
+            "value": 12.817,
+            "unit": "bar**2"
+        },
+        "os_coeff_mean": 1.1795,
+        "os_coeff_var": 0.0003
+    },
+    {
+        "os_press_mean": {
+            "value": 242.6225,
+            "unit": "bar"
+        },
+        "os_press_var": {
+            "value": 23.1518,
+            "unit": "bar**2"
+        },
+        "os_coeff_mean": 1.2457,
+        "os_coeff_var": 0.0006
+    },
+    {
+        "os_press_mean": {
+            "value": 239.6828,
+            "unit": "bar"
+        },
+        "os_press_var": {
+            "value": 34.982,
+            "unit": "bar**2"
+        },
+        "os_coeff_mean": 1.2327,
+        "os_coeff_var": 0.0009
+    },
+    {
+        "os_press_mean": {
+            "value": 233.6171,
+            "unit": "bar"
+        },
+        "os_press_var": {
+            "value": 16.3827,
+            "unit": "bar**2"
+        },
+        "os_coeff_mean": 1.2034,
+        "os_coeff_var": 0.0004
+    },
+    {
+        "os_press_mean": {
+            "value": 245.2656,
+            "unit": "bar"
+        },
+        "os_press_var": {
+            "value": 22.6284,
+            "unit": "bar**2"
+        },
+        "os_coeff_mean": 1.2617,
+        "os_coeff_var": 0.0006
+    },
+    {
+        "os_press_mean": {
+            "value": 234.2339,
+            "unit": "bar"
+        },
+        "os_press_var": {
+            "value": 16.0732,
+            "unit": "bar**2"
+        },
+        "os_coeff_mean": 1.2055,
+        "os_coeff_var": 0.0004
+    },
+    {
+        "os_press_mean": {
+            "value": 244.2201,
+            "unit": "bar"
+        },
+        "os_press_var": {
+            "value": 26.0176,
+            "unit": "bar**2"
+        },
+        "os_coeff_mean": 1.2551,
+        "os_coeff_var": 0.0007
+    },
+    {
+        "os_press_mean": {
+            "value": 242.6543,
+            "unit": "bar"
+        },
+        "os_press_var": {
+            "value": 14.9144,
+            "unit": "bar**2"
+        },
+        "os_coeff_mean": 1.2478,
+        "os_coeff_var": 0.0004
+    },
+    {
+        "os_press_mean": {
+            "value": 229.1682,
+            "unit": "bar"
+        },
+        "os_press_var": {
+            "value": 17.5327,
+            "unit": "bar**2"
+        },
+        "os_coeff_mean": 1.1771,
+        "os_coeff_var": 0.0005
+    },
+    {
+        "os_press_mean": {
+            "value": 231.6537,
+            "unit": "bar"
+        },
+        "os_press_var": {
+            "value": 14.615,
+            "unit": "bar**2"
+        },
+        "os_coeff_mean": 1.1845,
+        "os_coeff_var": 0.0004
+    },
+    {
+        "os_press_mean": {
+            "value": 236.722,
+            "unit": "bar"
+        },
+        "os_press_var": {
+            "value": 14.116,
+            "unit": "bar**2"
+        },
+        "os_coeff_mean": 1.2187,
+        "os_coeff_var": 0.0004
+    },
+    {
+        "os_press_mean": {
+            "value": 243.7253,
+            "unit": "bar"
+        },
+        "os_press_var": {
+            "value": 14.0509,
+            "unit": "bar**2"
+        },
+        "os_coeff_mean": 1.2542,
+        "os_coeff_var": 0.0004
+    }
+]
