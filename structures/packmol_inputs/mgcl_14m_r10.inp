@@ -1,0 +1,32 @@
+#
+# 14m MGCL and water
+#
+seed -1
+tolerance 2.0
+
+structure ../water.pdb
+  number 3700
+  inside box 0. 0. 0 48. 48. 48.
+end structure
+
+structure ../water.pdb
+  number 3700
+  inside box 0. 0. 48 48. 48. 96.
+end structure
+
+structure ../water.pdb
+  number 3700
+  inside box 0. 0. 96 48. 48. 144.
+end structure
+
+structure ../mg.pdb
+  number 93
+  inside box 0. 0. 48 48. 48. 96.
+end structure
+
+structure ../cl.pdb
+  number 186
+  inside box 0. 0. 48 48. 48. 96.
+end structure
+
+output ../mgcl_14m_r10.pdb

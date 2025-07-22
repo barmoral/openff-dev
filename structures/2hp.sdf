@@ -1,0 +1,71 @@
+
+Marvin  12050519372D          
+
+  7  6  0  0  0  0            999 V2000
+   -0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0084   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  4  1  0  0  0  0
+  2  1  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  CHG  1   3  -1
+M  END
+> <ID>
+CHEBI:39745
+
+> <NAME>
+dihydrogenphosphate
+
+> <DEFINITION>
+A monovalent inorganic anion that consists of phosphoric acid in which one of the three OH groups has been deprotonated.
+
+> <STAR>
+3
+
+> <SECONDARY_ID>
+CHEBI:39739; CHEBI:29137
+
+> <SYNONYM>
+H2PO4(-); DIHYDROGENPHOSPHATE ION; [PO2(OH)2](-)
+
+> <IUPAC_NAME>
+dihydroxidodioxidophosphate(1-); dihydrogentetraoxophosphate(V); dihydrogentetraoxophosphate(1-); dihydrogenphosphate; dihydrogen(tetraoxidophosphate)(1-)
+
+> <FORMULA>
+H2O4P
+
+> <MASS>
+96.98724
+
+> <MONOISOTOPIC_MASS>
+96.96962
+
+> <CHARGE>
+-1
+
+> <SMILES>
+[H]OP([O-])(=O)O[H]
+
+> <INCHI>
+InChI=1S/H3O4P/c1-5(2,3)4/h(H3,1,2,3,4)/p-1
+
+> <INCHIKEY>
+NBIIXXVUZAFLBC-UHFFFAOYSA-M
+
+> <GMELIN_REGISTRY_NUMBER>
+1999
+
+> <DRUGBANK_ACCESSION>
+DB02831
+
+> <PDBECHEM_ACCESSION>
+2HP
+
+$$$$

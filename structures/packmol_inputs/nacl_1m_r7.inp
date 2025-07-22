@@ -1,0 +1,32 @@
+#
+# 1m NACL and water
+#
+seed -1
+tolerance 2.0
+
+structure ../water.pdb
+  number 3700
+  inside box 0. 0. 0 48. 48. 48.
+end structure
+
+structure ../water.pdb
+  number 3700
+  inside box 0. 0. 48 48. 48. 96.
+end structure
+
+structure ../water.pdb
+  number 3700
+  inside box 0. 0. 96 48. 48. 144.
+end structure
+
+structure ../na.pdb
+  number 67
+  inside box 0. 0. 48 48. 48. 96.
+end structure
+
+structure ../cl.pdb
+  number 67
+  inside box 0. 0. 48 48. 48. 96.
+end structure
+
+output ../nacl_1m_r7.pdb

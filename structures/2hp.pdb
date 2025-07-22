@@ -1,0 +1,17 @@
+REMARK   1 CREATED WITH OPENMM 8.2, 2025-03-25
+HETATM    1  O1x 2HP X   0      -0.968   0.594   1.218  1.00  0.00           O  
+HETATM    2  P1x 2HP X   0      -0.430  -0.039  -0.045  1.00  0.00           P  
+HETATM    3  O2x 2HP X   0      -1.345  -0.353  -1.208  1.00  0.00           O  
+HETATM    4  O3x 2HP X   0       0.826   0.850  -0.589  1.00  0.00           O  
+HETATM    5  H1x 2HP X   0       1.283   0.561  -1.408  1.00  0.00           H  
+HETATM    6  O4x 2HP X   0       0.382  -1.397   0.357  1.00  0.00           O  
+HETATM    7  H2x 2HP X   0       0.793  -1.925  -0.360  1.00  0.00           H  
+TER       8      2HP X   0
+CONECT    1    2
+CONECT    2    4    1    6    3
+CONECT    3    2
+CONECT    4    2    5
+CONECT    5    4
+CONECT    6    2    7
+CONECT    7    6
+END

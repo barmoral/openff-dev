@@ -1,0 +1,4 @@
+REMARK   1 CREATED WITH OPENMM 8.2, 2025-05-28
+HETATM    1       MG A   1       0.000   0.000   0.000  1.00  0.00          Mg  
+TER       2       MG A   1
+END

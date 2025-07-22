@@ -1,0 +1,32 @@
+#
+# 2m NH4NO3 and water
+#
+seed -1
+tolerance 2.0
+
+structure ../water.pdb
+  number 3700
+  inside box 0. 0. 0 48. 48. 48.
+end structure
+
+structure ../water.pdb
+  number 3700
+  inside box 0. 0. 48 48. 48. 96.
+end structure
+
+structure ../water.pdb
+  number 3700
+  inside box 0. 0. 96 48. 48. 144.
+end structure
+
+structure ../nh4.pdb
+  number 133
+  inside box 0. 0. 48 48. 48. 96.
+end structure
+
+structure ../no3.pdb
+  number 133
+  inside box 0. 0. 48 48. 48. 96.
+end structure
+
+output ../nh4no3_2m_r11.pdb

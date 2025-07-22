@@ -1,0 +1,4176 @@
+Salt: CsBr
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0221 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.917
+--------------------------------------------
+Salt: CsBr
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0434 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.896
+--------------------------------------------
+Salt: CsBr
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0647 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.882
+--------------------------------------------
+Salt: CsBr
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0860 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.873
+--------------------------------------------
+Salt: CsBr
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.1073 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.865
+--------------------------------------------
+Salt: CsBr
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.1286 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.861
+--------------------------------------------
+Salt: CsBr
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.1499 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.857
+--------------------------------------------
+Salt: CsBr
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.1712 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.854
+--------------------------------------------
+Salt: CsBr
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.1925 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.852
+--------------------------------------------
+Salt: CsBr
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.2138 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.850
+--------------------------------------------
+Salt: CsBr
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.2564 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 0.849
+--------------------------------------------
+Salt: CsBr
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.2990 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 0.848
+--------------------------------------------
+Salt: CsBr
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.3416 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 0.848
+--------------------------------------------
+Salt: CsBr
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.3842 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 0.850
+--------------------------------------------
+Salt: CsBr
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.4268 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 0.852
+--------------------------------------------
+Salt: CsBr
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.5333 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 0.859
+--------------------------------------------
+Salt: CsBr
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.6398 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 0.866
+--------------------------------------------
+Salt: CsBr
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.7463 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 0.874
+--------------------------------------------
+Salt: CsBr
+Molality: 4.000 mol/kg
+Molarity: 4.003 M
+Estimated Density: 1.8528 g/mL
+Number of particles of solute: 267
+Mole Fraction: 0.067
+Osmotic Coefficient: 0.884
+--------------------------------------------
+Salt: CsBr
+Molality: 4.500 mol/kg
+Molarity: 4.504 M
+Estimated Density: 1.9593 g/mL
+Number of particles of solute: 300
+Mole Fraction: 0.075
+Osmotic Coefficient: 0.892
+--------------------------------------------
+Salt: CsBr
+Molality: 5.000 mol/kg
+Molarity: 5.004 M
+Estimated Density: 2.0658 g/mL
+Number of particles of solute: 334
+Mole Fraction: 0.083
+Osmotic Coefficient: 0.901
+--------------------------------------------
+Salt: CsCl
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0177 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.917
+--------------------------------------------
+Salt: CsCl
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0345 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.897
+--------------------------------------------
+Salt: CsCl
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0514 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.885
+--------------------------------------------
+Salt: CsCl
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0682 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.875
+--------------------------------------------
+Salt: CsCl
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0851 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.869
+--------------------------------------------
+Salt: CsCl
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.1019 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.864
+--------------------------------------------
+Salt: CsCl
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.1188 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.861
+--------------------------------------------
+Salt: CsCl
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.1357 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.859
+--------------------------------------------
+Salt: CsCl
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.1525 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.858
+--------------------------------------------
+Salt: CsCl
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.1694 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.857
+--------------------------------------------
+Salt: CsCl
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.2031 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 0.856
+--------------------------------------------
+Salt: CsCl
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.2368 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 0.856
+--------------------------------------------
+Salt: CsCl
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.2705 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 0.857
+--------------------------------------------
+Salt: CsCl
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.3042 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 0.859
+--------------------------------------------
+Salt: CsCl
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.3379 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 0.864
+--------------------------------------------
+Salt: CsCl
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.4221 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 0.871
+--------------------------------------------
+Salt: CsCl
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.5064 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 0.880
+--------------------------------------------
+Salt: CsCl
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.5906 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 0.891
+--------------------------------------------
+Salt: CsCl
+Molality: 4.000 mol/kg
+Molarity: 4.003 M
+Estimated Density: 1.6749 g/mL
+Number of particles of solute: 267
+Mole Fraction: 0.067
+Osmotic Coefficient: 0.901
+--------------------------------------------
+Salt: CsCl
+Molality: 4.500 mol/kg
+Molarity: 4.504 M
+Estimated Density: 1.7591 g/mL
+Number of particles of solute: 300
+Mole Fraction: 0.075
+Osmotic Coefficient: 0.913
+--------------------------------------------
+Salt: CsCl
+Molality: 5.000 mol/kg
+Molarity: 5.004 M
+Estimated Density: 1.8434 g/mL
+Number of particles of solute: 334
+Mole Fraction: 0.083
+Osmotic Coefficient: 0.923
+--------------------------------------------
+Salt: CsCl
+Molality: 5.500 mol/kg
+Molarity: 5.505 M
+Estimated Density: 1.9276 g/mL
+Number of particles of solute: 367
+Mole Fraction: 0.090
+Osmotic Coefficient: 0.934
+--------------------------------------------
+Salt: CsCl
+Molality: 6.000 mol/kg
+Molarity: 6.005 M
+Estimated Density: 2.0119 g/mL
+Number of particles of solute: 400
+Mole Fraction: 0.098
+Osmotic Coefficient: 0.945
+--------------------------------------------
+Salt: CsI
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0269 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.916
+--------------------------------------------
+Salt: CsI
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0529 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.895
+--------------------------------------------
+Salt: CsI
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0789 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.880
+--------------------------------------------
+Salt: CsI
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.1049 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.870
+--------------------------------------------
+Salt: CsI
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.1309 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.863
+--------------------------------------------
+Salt: CsI
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.1569 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.858
+--------------------------------------------
+Salt: CsI
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.1829 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.855
+--------------------------------------------
+Salt: CsI
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.2089 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.852
+--------------------------------------------
+Salt: CsI
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.2349 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.849
+--------------------------------------------
+Salt: CsI
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.2609 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.846
+--------------------------------------------
+Salt: CsI
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.3129 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 0.842
+--------------------------------------------
+Salt: CsI
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.3649 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 0.839
+--------------------------------------------
+Salt: CsI
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.4169 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 0.836
+--------------------------------------------
+Salt: CsI
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.4689 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 0.834
+--------------------------------------------
+Salt: CsI
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.5209 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 0.832
+--------------------------------------------
+Salt: CsI
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.6509 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 0.827
+--------------------------------------------
+Salt: CsI
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.7809 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 0.822
+--------------------------------------------
+Salt: CsNO3
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0204 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.902
+--------------------------------------------
+Salt: CsNO3
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0399 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.869
+--------------------------------------------
+Salt: CsNO3
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0594 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.842
+--------------------------------------------
+Salt: CsNO3
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0789 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.820
+--------------------------------------------
+Salt: CsNO3
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0984 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.802
+--------------------------------------------
+Salt: CsNO3
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.1179 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.787
+--------------------------------------------
+Salt: CsNO3
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.1374 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.774
+--------------------------------------------
+Salt: CsNO3
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.1569 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.761
+--------------------------------------------
+Salt: CsNO3
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.1764 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.748
+--------------------------------------------
+Salt: CsNO3
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.1959 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.736
+--------------------------------------------
+Salt: CsNO3
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.2349 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 0.715
+--------------------------------------------
+Salt: CsNO3
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.2740 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 0.695
+--------------------------------------------
+Salt: KBr
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0128 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.928
+--------------------------------------------
+Salt: KBr
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0247 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.916
+--------------------------------------------
+Salt: KBr
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0366 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.910
+--------------------------------------------
+Salt: KBr
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0485 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.906
+--------------------------------------------
+Salt: KBr
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0604 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.904
+--------------------------------------------
+Salt: KBr
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0723 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.904
+--------------------------------------------
+Salt: KBr
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.0842 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.904
+--------------------------------------------
+Salt: KBr
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.0961 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.905
+--------------------------------------------
+Salt: KBr
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.1080 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.906
+--------------------------------------------
+Salt: KBr
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.1200 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.907
+--------------------------------------------
+Salt: KBr
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.1438 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 0.910
+--------------------------------------------
+Salt: KBr
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.1676 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 0.914
+--------------------------------------------
+Salt: KBr
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.1914 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 0.917
+--------------------------------------------
+Salt: KBr
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.2152 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 0.922
+--------------------------------------------
+Salt: KBr
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.2391 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 0.927
+--------------------------------------------
+Salt: KBr
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.2986 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 0.941
+--------------------------------------------
+Salt: KBr
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.3582 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 0.955
+--------------------------------------------
+Salt: KBr
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.4177 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 0.969
+--------------------------------------------
+Salt: KBr
+Molality: 4.000 mol/kg
+Molarity: 4.003 M
+Estimated Density: 1.4773 g/mL
+Number of particles of solute: 267
+Mole Fraction: 0.067
+Osmotic Coefficient: 0.984
+--------------------------------------------
+Salt: KBr
+Molality: 4.500 mol/kg
+Molarity: 4.504 M
+Estimated Density: 1.5368 g/mL
+Number of particles of solute: 300
+Mole Fraction: 0.075
+Osmotic Coefficient: 1.000
+--------------------------------------------
+Salt: KBr
+Molality: 5.000 mol/kg
+Molarity: 5.004 M
+Estimated Density: 1.5964 g/mL
+Number of particles of solute: 334
+Mole Fraction: 0.083
+Osmotic Coefficient: 1.015
+--------------------------------------------
+Salt: KBr
+Molality: 5.500 mol/kg
+Molarity: 5.505 M
+Estimated Density: 1.6559 g/mL
+Number of particles of solute: 367
+Mole Fraction: 0.090
+Osmotic Coefficient: 1.028
+--------------------------------------------
+Salt: KCl
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0083 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.927
+--------------------------------------------
+Salt: KCl
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0158 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.913
+--------------------------------------------
+Salt: KCl
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0232 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.906
+--------------------------------------------
+Salt: KCl
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0307 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.902
+--------------------------------------------
+Salt: KCl
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0382 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.899
+--------------------------------------------
+Salt: KCl
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0456 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.898
+--------------------------------------------
+Salt: KCl
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.0531 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.897
+--------------------------------------------
+Salt: KCl
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.0605 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.897
+--------------------------------------------
+Salt: KCl
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.0680 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.897
+--------------------------------------------
+Salt: KCl
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.0755 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.897
+--------------------------------------------
+Salt: KCl
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.0904 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 0.899
+--------------------------------------------
+Salt: KCl
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.1053 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 0.901
+--------------------------------------------
+Salt: KCl
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.1202 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 0.904
+--------------------------------------------
+Salt: KCl
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.1352 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 0.908
+--------------------------------------------
+Salt: KCl
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.1501 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 0.912
+--------------------------------------------
+Salt: KCl
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.1874 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 0.924
+--------------------------------------------
+Salt: KCl
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.2247 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 0.937
+--------------------------------------------
+Salt: KCl
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.2620 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 0.950
+--------------------------------------------
+Salt: KCl
+Molality: 4.000 mol/kg
+Molarity: 4.003 M
+Estimated Density: 1.2993 g/mL
+Number of particles of solute: 267
+Mole Fraction: 0.067
+Osmotic Coefficient: 0.965
+--------------------------------------------
+Salt: KCl
+Molality: 4.500 mol/kg
+Molarity: 4.504 M
+Estimated Density: 1.3366 g/mL
+Number of particles of solute: 300
+Mole Fraction: 0.075
+Osmotic Coefficient: 0.980
+--------------------------------------------
+Salt: KI
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0175 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.932
+--------------------------------------------
+Salt: KI
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0341 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.922
+--------------------------------------------
+Salt: KI
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0507 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.918
+--------------------------------------------
+Salt: KI
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0673 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.917
+--------------------------------------------
+Salt: KI
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0839 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.917
+--------------------------------------------
+Salt: KI
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.1005 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.918
+--------------------------------------------
+Salt: KI
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.1171 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.919
+--------------------------------------------
+Salt: KI
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.1338 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.922
+--------------------------------------------
+Salt: KI
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.1504 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.924
+--------------------------------------------
+Salt: KI
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.1670 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.926
+--------------------------------------------
+Salt: KI
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.2002 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 0.931
+--------------------------------------------
+Salt: KI
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.2334 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 0.937
+--------------------------------------------
+Salt: KI
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.2667 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 0.943
+--------------------------------------------
+Salt: KI
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.2999 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 0.950
+--------------------------------------------
+Salt: KI
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.3331 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 0.957
+--------------------------------------------
+Salt: KI
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.4162 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 0.974
+--------------------------------------------
+Salt: KI
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.4993 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 0.990
+--------------------------------------------
+Salt: KI
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.5824 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 1.006
+--------------------------------------------
+Salt: KI
+Molality: 4.000 mol/kg
+Molarity: 4.003 M
+Estimated Density: 1.6654 g/mL
+Number of particles of solute: 267
+Mole Fraction: 0.067
+Osmotic Coefficient: 1.021
+--------------------------------------------
+Salt: KI
+Molality: 4.500 mol/kg
+Molarity: 4.504 M
+Estimated Density: 1.7485 g/mL
+Number of particles of solute: 300
+Mole Fraction: 0.075
+Osmotic Coefficient: 1.032
+--------------------------------------------
+Salt: KNO3
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0110 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.906
+--------------------------------------------
+Salt: KNO3
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0211 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.873
+--------------------------------------------
+Salt: KNO3
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0312 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.851
+--------------------------------------------
+Salt: KNO3
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0413 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.833
+--------------------------------------------
+Salt: KNO3
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0514 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.817
+--------------------------------------------
+Salt: KNO3
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0616 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.802
+--------------------------------------------
+Salt: KNO3
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.0717 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.790
+--------------------------------------------
+Salt: KNO3
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.0818 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.778
+--------------------------------------------
+Salt: KNO3
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.0919 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.767
+--------------------------------------------
+Salt: KNO3
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.1020 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.756
+--------------------------------------------
+Salt: KNO3
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.1223 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 0.736
+--------------------------------------------
+Salt: KNO3
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.1425 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 0.718
+--------------------------------------------
+Salt: KNO3
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.1628 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 0.700
+--------------------------------------------
+Salt: KNO3
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.1830 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 0.684
+--------------------------------------------
+Salt: KNO3
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.2032 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 0.669
+--------------------------------------------
+Salt: KNO3
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.2538 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 0.631
+--------------------------------------------
+Salt: KNO3
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.3044 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 0.602
+--------------------------------------------
+Salt: KNO3
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.3550 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 0.577
+--------------------------------------------
+Salt: LiBr
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0095 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.943
+--------------------------------------------
+Salt: LiBr
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0182 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.944
+--------------------------------------------
+Salt: LiBr
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0269 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.952
+--------------------------------------------
+Salt: LiBr
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0356 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.960
+--------------------------------------------
+Salt: LiBr
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0443 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.970
+--------------------------------------------
+Salt: LiBr
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0530 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.981
+--------------------------------------------
+Salt: LiBr
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.0617 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.993
+--------------------------------------------
+Salt: LiBr
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.0704 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 1.007
+--------------------------------------------
+Salt: LiBr
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.0791 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 1.021
+--------------------------------------------
+Salt: LiBr
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.0878 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 1.035
+--------------------------------------------
+Salt: LiBr
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.1052 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 1.067
+--------------------------------------------
+Salt: LiBr
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.1225 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 1.098
+--------------------------------------------
+Salt: LiBr
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.1399 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 1.130
+--------------------------------------------
+Salt: LiBr
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.1573 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 1.163
+--------------------------------------------
+Salt: LiBr
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.1747 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 1.196
+--------------------------------------------
+Salt: LiBr
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.2181 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 1.278
+--------------------------------------------
+Salt: LiBr
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.2616 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 1.364
+--------------------------------------------
+Salt: LiBr
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.3051 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 1.467
+--------------------------------------------
+Salt: LiBr
+Molality: 4.000 mol/kg
+Molarity: 4.003 M
+Estimated Density: 1.3485 g/mL
+Number of particles of solute: 267
+Mole Fraction: 0.067
+Osmotic Coefficient: 1.578
+--------------------------------------------
+Salt: LiBr
+Molality: 4.500 mol/kg
+Molarity: 4.504 M
+Estimated Density: 1.3920 g/mL
+Number of particles of solute: 300
+Mole Fraction: 0.075
+Osmotic Coefficient: 1.687
+--------------------------------------------
+Salt: LiBr
+Molality: 5.000 mol/kg
+Molarity: 5.004 M
+Estimated Density: 1.4354 g/mL
+Number of particles of solute: 334
+Mole Fraction: 0.083
+Osmotic Coefficient: 1.793
+--------------------------------------------
+Salt: LiBr
+Molality: 5.500 mol/kg
+Molarity: 5.505 M
+Estimated Density: 1.4789 g/mL
+Number of particles of solute: 367
+Mole Fraction: 0.090
+Osmotic Coefficient: 1.891
+--------------------------------------------
+Salt: LiBr
+Molality: 6.000 mol/kg
+Molarity: 6.005 M
+Estimated Density: 1.5224 g/mL
+Number of particles of solute: 400
+Mole Fraction: 0.098
+Osmotic Coefficient: 1.989
+--------------------------------------------
+Salt: LiCl
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0051 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.939
+--------------------------------------------
+Salt: LiCl
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0093 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.939
+--------------------------------------------
+Salt: LiCl
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0136 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.945
+--------------------------------------------
+Salt: LiCl
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0178 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.954
+--------------------------------------------
+Salt: LiCl
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0221 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.963
+--------------------------------------------
+Salt: LiCl
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0263 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.973
+--------------------------------------------
+Salt: LiCl
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.0305 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.984
+--------------------------------------------
+Salt: LiCl
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.0348 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.995
+--------------------------------------------
+Salt: LiCl
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.0390 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 1.006
+--------------------------------------------
+Salt: LiCl
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.0433 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 1.018
+--------------------------------------------
+Salt: LiCl
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.0518 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 1.041
+--------------------------------------------
+Salt: LiCl
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.0602 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 1.066
+--------------------------------------------
+Salt: LiCl
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.0687 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 1.091
+--------------------------------------------
+Salt: LiCl
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.0772 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 1.116
+--------------------------------------------
+Salt: LiCl
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.0857 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 1.142
+--------------------------------------------
+Salt: LiCl
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.1069 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 1.212
+--------------------------------------------
+Salt: LiCl
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.1281 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 1.286
+--------------------------------------------
+Salt: LiCl
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.1494 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 1.366
+--------------------------------------------
+Salt: LiCl
+Molality: 4.000 mol/kg
+Molarity: 4.003 M
+Estimated Density: 1.1706 g/mL
+Number of particles of solute: 267
+Mole Fraction: 0.067
+Osmotic Coefficient: 1.449
+--------------------------------------------
+Salt: LiCl
+Molality: 4.500 mol/kg
+Molarity: 4.504 M
+Estimated Density: 1.1918 g/mL
+Number of particles of solute: 300
+Mole Fraction: 0.075
+Osmotic Coefficient: 1.533
+--------------------------------------------
+Salt: LiCl
+Molality: 5.000 mol/kg
+Molarity: 5.004 M
+Estimated Density: 1.2130 g/mL
+Number of particles of solute: 334
+Mole Fraction: 0.083
+Osmotic Coefficient: 1.619
+--------------------------------------------
+Salt: LiCl
+Molality: 5.500 mol/kg
+Molarity: 5.505 M
+Estimated Density: 1.2342 g/mL
+Number of particles of solute: 367
+Mole Fraction: 0.090
+Osmotic Coefficient: 1.705
+--------------------------------------------
+Salt: LiCl
+Molality: 6.000 mol/kg
+Molarity: 6.005 M
+Estimated Density: 1.2554 g/mL
+Number of particles of solute: 400
+Mole Fraction: 0.098
+Osmotic Coefficient: 1.791
+--------------------------------------------
+Salt: LiClO4
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0115 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.951
+--------------------------------------------
+Salt: LiClO4
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0221 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.959
+--------------------------------------------
+Salt: LiClO4
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0328 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.971
+--------------------------------------------
+Salt: LiClO4
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0434 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.985
+--------------------------------------------
+Salt: LiClO4
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0541 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.999
+--------------------------------------------
+Salt: LiClO4
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0647 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 1.013
+--------------------------------------------
+Salt: LiClO4
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.0754 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 1.027
+--------------------------------------------
+Salt: LiClO4
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.0860 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 1.043
+--------------------------------------------
+Salt: LiClO4
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.0967 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 1.058
+--------------------------------------------
+Salt: LiClO4
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.1073 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 1.072
+--------------------------------------------
+Salt: LiClO4
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.1286 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 1.104
+--------------------------------------------
+Salt: LiClO4
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.1499 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 1.137
+--------------------------------------------
+Salt: LiClO4
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.1712 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 1.170
+--------------------------------------------
+Salt: LiClO4
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.1925 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 1.204
+--------------------------------------------
+Salt: LiClO4
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.2138 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 1.238
+--------------------------------------------
+Salt: LiClO4
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.2670 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 1.328
+--------------------------------------------
+Salt: LiClO4
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.3203 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 1.419
+--------------------------------------------
+Salt: LiClO4
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.3735 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 1.512
+--------------------------------------------
+Salt: LiClO4
+Molality: 4.000 mol/kg
+Molarity: 4.003 M
+Estimated Density: 1.4268 g/mL
+Number of particles of solute: 267
+Mole Fraction: 0.067
+Osmotic Coefficient: 1.595
+--------------------------------------------
+Salt: LiI
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0142 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.952
+--------------------------------------------
+Salt: LiI
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0276 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.966
+--------------------------------------------
+Salt: LiI
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0410 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.980
+--------------------------------------------
+Salt: LiI
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0544 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.995
+--------------------------------------------
+Salt: LiI
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0678 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 1.008
+--------------------------------------------
+Salt: LiI
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0812 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 1.022
+--------------------------------------------
+Salt: LiI
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.0946 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 1.034
+--------------------------------------------
+Salt: LiI
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.1080 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 1.049
+--------------------------------------------
+Salt: LiI
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.1214 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 1.063
+--------------------------------------------
+Salt: LiI
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.1348 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 1.080
+--------------------------------------------
+Salt: LiI
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.1616 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 1.111
+--------------------------------------------
+Salt: LiI
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.1884 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 1.143
+--------------------------------------------
+Salt: LiI
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.2152 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 1.176
+--------------------------------------------
+Salt: LiI
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.2420 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 1.212
+--------------------------------------------
+Salt: LiI
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.2688 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 1.250
+--------------------------------------------
+Salt: LiI
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.3358 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 1.351
+--------------------------------------------
+Salt: LiI
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.4027 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 1.467
+--------------------------------------------
+Salt: LiNO3
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0077 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.938
+--------------------------------------------
+Salt: LiNO3
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0146 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.935
+--------------------------------------------
+Salt: LiNO3
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0215 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.940
+--------------------------------------------
+Salt: LiNO3
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0284 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.946
+--------------------------------------------
+Salt: LiNO3
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0354 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.954
+--------------------------------------------
+Salt: LiNO3
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0423 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.962
+--------------------------------------------
+Salt: LiNO3
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.0492 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.970
+--------------------------------------------
+Salt: LiNO3
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.0561 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.978
+--------------------------------------------
+Salt: LiNO3
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.0630 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.987
+--------------------------------------------
+Salt: LiNO3
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.0699 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.997
+--------------------------------------------
+Salt: LiNO3
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.0837 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 1.015
+--------------------------------------------
+Salt: LiNO3
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.0975 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 1.033
+--------------------------------------------
+Salt: LiNO3
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.1113 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 1.052
+--------------------------------------------
+Salt: LiNO3
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.1251 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 1.070
+--------------------------------------------
+Salt: LiNO3
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.1389 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 1.088
+--------------------------------------------
+Salt: LiNO3
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.1734 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 1.134
+--------------------------------------------
+Salt: LiNO3
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.2079 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 1.181
+--------------------------------------------
+Salt: LiNO3
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.2424 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 1.227
+--------------------------------------------
+Salt: LiNO3
+Molality: 4.000 mol/kg
+Molarity: 4.003 M
+Estimated Density: 1.2769 g/mL
+Number of particles of solute: 267
+Mole Fraction: 0.067
+Osmotic Coefficient: 1.270
+--------------------------------------------
+Salt: LiNO3
+Molality: 4.500 mol/kg
+Molarity: 4.504 M
+Estimated Density: 1.3114 g/mL
+Number of particles of solute: 300
+Mole Fraction: 0.075
+Osmotic Coefficient: 1.312
+--------------------------------------------
+Salt: LiNO3
+Molality: 5.000 mol/kg
+Molarity: 5.004 M
+Estimated Density: 1.3459 g/mL
+Number of particles of solute: 334
+Mole Fraction: 0.083
+Osmotic Coefficient: 1.352
+--------------------------------------------
+Salt: LiNO3
+Molality: 5.500 mol/kg
+Molarity: 5.505 M
+Estimated Density: 1.3804 g/mL
+Number of particles of solute: 367
+Mole Fraction: 0.090
+Osmotic Coefficient: 1.387
+--------------------------------------------
+Salt: LiNO3
+Molality: 6.000 mol/kg
+Molarity: 6.005 M
+Estimated Density: 1.4149 g/mL
+Number of particles of solute: 400
+Mole Fraction: 0.098
+Osmotic Coefficient: 1.420
+--------------------------------------------
+Salt: NaBr
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0111 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.934
+--------------------------------------------
+Salt: NaBr
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0214 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.928
+--------------------------------------------
+Salt: NaBr
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0317 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.928
+--------------------------------------------
+Salt: NaBr
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0420 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.929
+--------------------------------------------
+Salt: NaBr
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0523 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.933
+--------------------------------------------
+Salt: NaBr
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0626 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.937
+--------------------------------------------
+Salt: NaBr
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.0729 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.942
+--------------------------------------------
+Salt: NaBr
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.0832 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.947
+--------------------------------------------
+Salt: NaBr
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.0935 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.953
+--------------------------------------------
+Salt: NaBr
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.1038 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.958
+--------------------------------------------
+Salt: NaBr
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.1244 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 0.969
+--------------------------------------------
+Salt: NaBr
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.1450 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 0.983
+--------------------------------------------
+Salt: NaBr
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.1656 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 0.997
+--------------------------------------------
+Salt: NaBr
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.1862 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 1.012
+--------------------------------------------
+Salt: NaBr
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.2068 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 1.028
+--------------------------------------------
+Salt: NaBr
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.2583 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 1.067
+--------------------------------------------
+Salt: NaBr
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.3098 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 1.107
+--------------------------------------------
+Salt: NaBr
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.3613 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 1.150
+--------------------------------------------
+Salt: NaBr
+Molality: 4.000 mol/kg
+Molarity: 4.003 M
+Estimated Density: 1.4128 g/mL
+Number of particles of solute: 267
+Mole Fraction: 0.067
+Osmotic Coefficient: 1.199
+--------------------------------------------
+Salt: NaCl
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0067 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.932
+--------------------------------------------
+Salt: NaCl
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0125 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.925
+--------------------------------------------
+Salt: NaCl
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0184 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.922
+--------------------------------------------
+Salt: NaCl
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0242 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.920
+--------------------------------------------
+Salt: NaCl
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0301 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.921
+--------------------------------------------
+Salt: NaCl
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0359 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.923
+--------------------------------------------
+Salt: NaCl
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.0418 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.926
+--------------------------------------------
+Salt: NaCl
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.0476 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.929
+--------------------------------------------
+Salt: NaCl
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.0535 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.932
+--------------------------------------------
+Salt: NaCl
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.0593 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.936
+--------------------------------------------
+Salt: NaCl
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.0710 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 0.943
+--------------------------------------------
+Salt: NaCl
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.0827 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 0.951
+--------------------------------------------
+Salt: NaCl
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.0944 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 0.962
+--------------------------------------------
+Salt: NaCl
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.1061 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 0.972
+--------------------------------------------
+Salt: NaCl
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.1178 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 0.983
+--------------------------------------------
+Salt: NaCl
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.1471 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 1.013
+--------------------------------------------
+Salt: NaCl
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.1763 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 1.045
+--------------------------------------------
+Salt: NaCl
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.2056 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 1.080
+--------------------------------------------
+Salt: NaCl
+Molality: 4.000 mol/kg
+Molarity: 4.003 M
+Estimated Density: 1.2348 g/mL
+Number of particles of solute: 267
+Mole Fraction: 0.067
+Osmotic Coefficient: 1.116
+--------------------------------------------
+Salt: NaCl
+Molality: 4.500 mol/kg
+Molarity: 4.504 M
+Estimated Density: 1.2641 g/mL
+Number of particles of solute: 300
+Mole Fraction: 0.075
+Osmotic Coefficient: 1.153
+--------------------------------------------
+Salt: NaCl
+Molality: 5.000 mol/kg
+Molarity: 5.004 M
+Estimated Density: 1.2933 g/mL
+Number of particles of solute: 334
+Mole Fraction: 0.083
+Osmotic Coefficient: 1.192
+--------------------------------------------
+Salt: NaCl
+Molality: 5.500 mol/kg
+Molarity: 5.505 M
+Estimated Density: 1.3225 g/mL
+Number of particles of solute: 367
+Mole Fraction: 0.090
+Osmotic Coefficient: 1.231
+--------------------------------------------
+Salt: NaCl
+Molality: 6.000 mol/kg
+Molarity: 6.005 M
+Estimated Density: 1.3518 g/mL
+Number of particles of solute: 400
+Mole Fraction: 0.098
+Osmotic Coefficient: 1.271
+--------------------------------------------
+Salt: NaI
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0158 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.938
+--------------------------------------------
+Salt: NaI
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0309 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.936
+--------------------------------------------
+Salt: NaI
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0459 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.939
+--------------------------------------------
+Salt: NaI
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0609 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.945
+--------------------------------------------
+Salt: NaI
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0759 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.952
+--------------------------------------------
+Salt: NaI
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0909 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.959
+--------------------------------------------
+Salt: NaI
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.1059 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.967
+--------------------------------------------
+Salt: NaI
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.1209 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.975
+--------------------------------------------
+Salt: NaI
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.1359 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.983
+--------------------------------------------
+Salt: NaI
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.1509 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.991
+--------------------------------------------
+Salt: NaI
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.1809 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 1.007
+--------------------------------------------
+Salt: NaI
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.2109 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 1.025
+--------------------------------------------
+Salt: NaI
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.2409 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 1.043
+--------------------------------------------
+Salt: NaI
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.2709 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 1.061
+--------------------------------------------
+Salt: NaI
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.3009 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 1.079
+--------------------------------------------
+Salt: NaI
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.3759 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 1.129
+--------------------------------------------
+Salt: NaI
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.4509 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 1.188
+--------------------------------------------
+Salt: NaI
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.5259 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 1.243
+--------------------------------------------
+Salt: NaNO3
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0094 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.921
+--------------------------------------------
+Salt: NaNO3
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0179 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.902
+--------------------------------------------
+Salt: NaNO3
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0264 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.890
+--------------------------------------------
+Salt: NaNO3
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0349 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.881
+--------------------------------------------
+Salt: NaNO3
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0434 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.873
+--------------------------------------------
+Salt: NaNO3
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0519 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.867
+--------------------------------------------
+Salt: NaNO3
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.0604 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.862
+--------------------------------------------
+Salt: NaNO3
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.0689 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.858
+--------------------------------------------
+Salt: NaNO3
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.0774 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.854
+--------------------------------------------
+Salt: NaNO3
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.0859 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.851
+--------------------------------------------
+Salt: NaNO3
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.1029 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 0.845
+--------------------------------------------
+Salt: NaNO3
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.1199 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 0.839
+--------------------------------------------
+Salt: NaNO3
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.1370 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 0.835
+--------------------------------------------
+Salt: NaNO3
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.1540 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 0.830
+--------------------------------------------
+Salt: NaNO3
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.1710 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 0.826
+--------------------------------------------
+Salt: NaNO3
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.2135 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 0.817
+--------------------------------------------
+Salt: NaNO3
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.2560 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 0.810
+--------------------------------------------
+Salt: NaNO3
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.2986 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 0.804
+--------------------------------------------
+Salt: NaNO3
+Molality: 4.000 mol/kg
+Molarity: 4.003 M
+Estimated Density: 1.3411 g/mL
+Number of particles of solute: 267
+Mole Fraction: 0.067
+Osmotic Coefficient: 0.797
+--------------------------------------------
+Salt: NaNO3
+Molality: 4.500 mol/kg
+Molarity: 4.504 M
+Estimated Density: 1.3836 g/mL
+Number of particles of solute: 300
+Mole Fraction: 0.075
+Osmotic Coefficient: 0.792
+--------------------------------------------
+Salt: NaNO3
+Molality: 5.000 mol/kg
+Molarity: 5.004 M
+Estimated Density: 1.4262 g/mL
+Number of particles of solute: 334
+Mole Fraction: 0.083
+Osmotic Coefficient: 0.788
+--------------------------------------------
+Salt: NaNO3
+Molality: 5.500 mol/kg
+Molarity: 5.505 M
+Estimated Density: 1.4687 g/mL
+Number of particles of solute: 367
+Mole Fraction: 0.090
+Osmotic Coefficient: 0.787
+--------------------------------------------
+Salt: NaNO3
+Molality: 6.000 mol/kg
+Molarity: 6.005 M
+Estimated Density: 1.5112 g/mL
+Number of particles of solute: 400
+Mole Fraction: 0.098
+Osmotic Coefficient: 0.788
+--------------------------------------------
+Salt: RbBr
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0174 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.922
+--------------------------------------------
+Salt: RbBr
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0340 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.904
+--------------------------------------------
+Salt: RbBr
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0505 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.896
+--------------------------------------------
+Salt: RbBr
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0671 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.890
+--------------------------------------------
+Salt: RbBr
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0836 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.886
+--------------------------------------------
+Salt: RbBr
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.1002 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.884
+--------------------------------------------
+Salt: RbBr
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.1167 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.881
+--------------------------------------------
+Salt: RbBr
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.1333 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.880
+--------------------------------------------
+Salt: RbBr
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.1498 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.879
+--------------------------------------------
+Salt: RbBr
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.1664 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.878
+--------------------------------------------
+Salt: RbBr
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.1995 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 0.878
+--------------------------------------------
+Salt: RbBr
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.2326 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 0.878
+--------------------------------------------
+Salt: RbBr
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.2657 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 0.880
+--------------------------------------------
+Salt: RbBr
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.2988 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 0.882
+--------------------------------------------
+Salt: RbBr
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.3319 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 0.886
+--------------------------------------------
+Salt: RbBr
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.4146 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 0.893
+--------------------------------------------
+Salt: RbBr
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.4974 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 0.901
+--------------------------------------------
+Salt: RbBr
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.5801 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 0.911
+--------------------------------------------
+Salt: RbBr
+Molality: 4.000 mol/kg
+Molarity: 4.003 M
+Estimated Density: 1.6629 g/mL
+Number of particles of solute: 267
+Mole Fraction: 0.067
+Osmotic Coefficient: 0.921
+--------------------------------------------
+Salt: RbBr
+Molality: 4.500 mol/kg
+Molarity: 4.504 M
+Estimated Density: 1.7457 g/mL
+Number of particles of solute: 300
+Mole Fraction: 0.075
+Osmotic Coefficient: 0.931
+--------------------------------------------
+Salt: RbBr
+Molality: 5.000 mol/kg
+Molarity: 5.004 M
+Estimated Density: 1.8284 g/mL
+Number of particles of solute: 334
+Mole Fraction: 0.083
+Osmotic Coefficient: 0.940
+--------------------------------------------
+Salt: RbCl
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0130 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.923
+--------------------------------------------
+Salt: RbCl
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0251 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.907
+--------------------------------------------
+Salt: RbCl
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0372 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.898
+--------------------------------------------
+Salt: RbCl
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0493 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.893
+--------------------------------------------
+Salt: RbCl
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0614 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.889
+--------------------------------------------
+Salt: RbCl
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0735 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.887
+--------------------------------------------
+Salt: RbCl
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.0856 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.886
+--------------------------------------------
+Salt: RbCl
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.0977 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.886
+--------------------------------------------
+Salt: RbCl
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.1098 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.885
+--------------------------------------------
+Salt: RbCl
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.1219 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.885
+--------------------------------------------
+Salt: RbCl
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.1461 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 0.886
+--------------------------------------------
+Salt: RbCl
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.1703 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 0.888
+--------------------------------------------
+Salt: RbCl
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.1945 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 0.890
+--------------------------------------------
+Salt: RbCl
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.2187 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 0.893
+--------------------------------------------
+Salt: RbCl
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.2429 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 0.896
+--------------------------------------------
+Salt: RbCl
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.3034 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 0.905
+--------------------------------------------
+Salt: RbCl
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.3639 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 0.916
+--------------------------------------------
+Salt: RbCl
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.4244 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 0.928
+--------------------------------------------
+Salt: RbCl
+Molality: 4.000 mol/kg
+Molarity: 4.003 M
+Estimated Density: 1.4849 g/mL
+Number of particles of solute: 267
+Mole Fraction: 0.067
+Osmotic Coefficient: 0.941
+--------------------------------------------
+Salt: RbCl
+Molality: 4.500 mol/kg
+Molarity: 4.504 M
+Estimated Density: 1.5455 g/mL
+Number of particles of solute: 300
+Mole Fraction: 0.075
+Osmotic Coefficient: 0.952
+--------------------------------------------
+Salt: RbCl
+Molality: 5.000 mol/kg
+Molarity: 5.004 M
+Estimated Density: 1.6060 g/mL
+Number of particles of solute: 334
+Mole Fraction: 0.083
+Osmotic Coefficient: 0.966
+--------------------------------------------
+Salt: RbNO3
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0156 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.903
+--------------------------------------------
+Salt: RbNO3
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0304 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.871
+--------------------------------------------
+Salt: RbNO3
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0451 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.847
+--------------------------------------------
+Salt: RbNO3
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0599 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.826
+--------------------------------------------
+Salt: RbNO3
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0746 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.809
+--------------------------------------------
+Salt: RbNO3
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0894 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.794
+--------------------------------------------
+Salt: RbNO3
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.1042 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.781
+--------------------------------------------
+Salt: RbNO3
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.1189 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.768
+--------------------------------------------
+Salt: RbNO3
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.1337 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.756
+--------------------------------------------
+Salt: RbNO3
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.1484 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.745
+--------------------------------------------
+Salt: RbNO3
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.1780 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 0.725
+--------------------------------------------
+Salt: RbNO3
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.2075 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 0.706
+--------------------------------------------
+Salt: RbNO3
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.2370 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 0.689
+--------------------------------------------
+Salt: RbNO3
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.2665 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 0.673
+--------------------------------------------
+Salt: RbNO3
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.2960 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 0.656
+--------------------------------------------
+Salt: RbNO3
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.3698 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 0.620
+--------------------------------------------
+Salt: RbNO3
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.4436 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 0.588
+--------------------------------------------
+Salt: RbNO3
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.5174 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 0.561
+--------------------------------------------
+Salt: RbNO3
+Molality: 4.000 mol/kg
+Molarity: 4.003 M
+Estimated Density: 1.5912 g/mL
+Number of particles of solute: 267
+Mole Fraction: 0.067
+Osmotic Coefficient: 0.538
+--------------------------------------------
+Salt: RbNO3
+Molality: 4.500 mol/kg
+Molarity: 4.504 M
+Estimated Density: 1.6650 g/mL
+Number of particles of solute: 300
+Mole Fraction: 0.075
+Osmotic Coefficient: 0.516
+--------------------------------------------
+Salt: NH4Cl
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0062 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.927
+--------------------------------------------
+Salt: NH4Cl
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0116 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.913
+--------------------------------------------
+Salt: NH4Cl
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0169 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.906
+--------------------------------------------
+Salt: NH4Cl
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0223 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.901
+--------------------------------------------
+Salt: NH4Cl
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0276 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.899
+--------------------------------------------
+Salt: NH4Cl
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0330 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.897
+--------------------------------------------
+Salt: NH4Cl
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.0383 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.896
+--------------------------------------------
+Salt: NH4Cl
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.0437 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.896
+--------------------------------------------
+Salt: NH4Cl
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.0490 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.896
+--------------------------------------------
+Salt: NH4Cl
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.0544 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.897
+--------------------------------------------
+Salt: NH4Cl
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.0651 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 0.898
+--------------------------------------------
+Salt: NH4Cl
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.0758 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 0.900
+--------------------------------------------
+Salt: NH4Cl
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.0865 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 0.903
+--------------------------------------------
+Salt: NH4Cl
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.0972 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 0.906
+--------------------------------------------
+Salt: NH4Cl
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.1079 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 0.909
+--------------------------------------------
+Salt: NH4Cl
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.1347 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 0.918
+--------------------------------------------
+Salt: NH4Cl
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.1615 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 0.926
+--------------------------------------------
+Salt: NH4Cl
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.1882 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 0.936
+--------------------------------------------
+Salt: NH4Cl
+Molality: 4.000 mol/kg
+Molarity: 4.003 M
+Estimated Density: 1.2150 g/mL
+Number of particles of solute: 267
+Mole Fraction: 0.067
+Osmotic Coefficient: 0.945
+--------------------------------------------
+Salt: NH4Cl
+Molality: 4.500 mol/kg
+Molarity: 4.504 M
+Estimated Density: 1.2418 g/mL
+Number of particles of solute: 300
+Mole Fraction: 0.075
+Osmotic Coefficient: 0.953
+--------------------------------------------
+Salt: NH4Cl
+Molality: 5.000 mol/kg
+Molarity: 5.004 M
+Estimated Density: 1.2685 g/mL
+Number of particles of solute: 334
+Mole Fraction: 0.083
+Osmotic Coefficient: 0.958
+--------------------------------------------
+Salt: NH4Cl
+Molality: 5.500 mol/kg
+Molarity: 5.505 M
+Estimated Density: 1.2953 g/mL
+Number of particles of solute: 367
+Mole Fraction: 0.090
+Osmotic Coefficient: 0.963
+--------------------------------------------
+Salt: NH4Cl
+Molality: 6.000 mol/kg
+Molarity: 6.005 M
+Estimated Density: 1.3221 g/mL
+Number of particles of solute: 400
+Mole Fraction: 0.098
+Osmotic Coefficient: 0.969
+--------------------------------------------
+Salt: NH4NO3
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0089 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.911
+--------------------------------------------
+Salt: NH4NO3
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0169 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.890
+--------------------------------------------
+Salt: NH4NO3
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0249 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.876
+--------------------------------------------
+Salt: NH4NO3
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0329 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.864
+--------------------------------------------
+Salt: NH4NO3
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0409 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.855
+--------------------------------------------
+Salt: NH4NO3
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0489 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.847
+--------------------------------------------
+Salt: NH4NO3
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.0569 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.840
+--------------------------------------------
+Salt: NH4NO3
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.0649 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.834
+--------------------------------------------
+Salt: NH4NO3
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.0729 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.829
+--------------------------------------------
+Salt: NH4NO3
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.0810 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.823
+--------------------------------------------
+Salt: NH4NO3
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.0970 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 0.813
+--------------------------------------------
+Salt: NH4NO3
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.1130 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 0.803
+--------------------------------------------
+Salt: NH4NO3
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.1290 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 0.793
+--------------------------------------------
+Salt: NH4NO3
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.1450 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 0.785
+--------------------------------------------
+Salt: NH4NO3
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.1611 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 0.776
+--------------------------------------------
+Salt: NH4NO3
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.2011 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 0.758
+--------------------------------------------
+Salt: NH4NO3
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.2412 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 0.743
+--------------------------------------------
+Salt: NH4NO3
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.2812 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 0.728
+--------------------------------------------
+Salt: NH4NO3
+Molality: 4.000 mol/kg
+Molarity: 4.003 M
+Estimated Density: 1.3213 g/mL
+Number of particles of solute: 267
+Mole Fraction: 0.067
+Osmotic Coefficient: 0.715
+--------------------------------------------
+Salt: NH4NO3
+Molality: 4.500 mol/kg
+Molarity: 4.504 M
+Estimated Density: 1.3613 g/mL
+Number of particles of solute: 300
+Mole Fraction: 0.075
+Osmotic Coefficient: 0.702
+--------------------------------------------
+Salt: NH4NO3
+Molality: 5.000 mol/kg
+Molarity: 5.004 M
+Estimated Density: 1.4014 g/mL
+Number of particles of solute: 334
+Mole Fraction: 0.083
+Osmotic Coefficient: 0.690
+--------------------------------------------
+Salt: NH4NO3
+Molality: 5.500 mol/kg
+Molarity: 5.505 M
+Estimated Density: 1.4415 g/mL
+Number of particles of solute: 367
+Mole Fraction: 0.090
+Osmotic Coefficient: 0.679
+--------------------------------------------
+Salt: NH4NO3
+Molality: 6.000 mol/kg
+Molarity: 6.005 M
+Estimated Density: 1.4815 g/mL
+Number of particles of solute: 400
+Mole Fraction: 0.098
+Osmotic Coefficient: 0.670
+--------------------------------------------
+Salt: NaH2PO4
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0129 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.911
+--------------------------------------------
+Salt: NaH2PO4
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0249 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.884
+--------------------------------------------
+Salt: NaH2PO4
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0369 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.864
+--------------------------------------------
+Salt: NaH2PO4
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0489 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.847
+--------------------------------------------
+Salt: NaH2PO4
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0609 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.832
+--------------------------------------------
+Salt: NaH2PO4
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0729 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.819
+--------------------------------------------
+Salt: NaH2PO4
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.0849 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.808
+--------------------------------------------
+Salt: NaH2PO4
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.0969 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.798
+--------------------------------------------
+Salt: NaH2PO4
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.1089 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.789
+--------------------------------------------
+Salt: NaH2PO4
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.1209 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.780
+--------------------------------------------
+Salt: NaH2PO4
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.1449 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 0.765
+--------------------------------------------
+Salt: NaH2PO4
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.1690 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 0.751
+--------------------------------------------
+Salt: NaH2PO4
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.1930 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 0.739
+--------------------------------------------
+Salt: NaH2PO4
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.2170 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 0.729
+--------------------------------------------
+Salt: NaH2PO4
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.2410 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 0.721
+--------------------------------------------
+Salt: NaH2PO4
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.3011 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 0.705
+--------------------------------------------
+Salt: NaH2PO4
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.3611 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 0.696
+--------------------------------------------
+Salt: NaH2PO4
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.4211 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 0.691
+--------------------------------------------
+Salt: NaH2PO4
+Molality: 4.000 mol/kg
+Molarity: 4.003 M
+Estimated Density: 1.4812 g/mL
+Number of particles of solute: 267
+Mole Fraction: 0.067
+Osmotic Coefficient: 0.691
+--------------------------------------------
+Salt: Na2SO4
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0151 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.793
+--------------------------------------------
+Salt: Na2SO4
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0293 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.753
+--------------------------------------------
+Salt: Na2SO4
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0435 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.725
+--------------------------------------------
+Salt: Na2SO4
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0577 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.705
+--------------------------------------------
+Salt: Na2SO4
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0719 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.690
+--------------------------------------------
+Salt: Na2SO4
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0861 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.678
+--------------------------------------------
+Salt: Na2SO4
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.1004 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.667
+--------------------------------------------
+Salt: Na2SO4
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.1146 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.658
+--------------------------------------------
+Salt: Na2SO4
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.1288 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.650
+--------------------------------------------
+Salt: Na2SO4
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.1430 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.642
+--------------------------------------------
+Salt: Na2SO4
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.1714 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 0.631
+--------------------------------------------
+Salt: Na2SO4
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.1999 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 0.625
+--------------------------------------------
+Salt: Na2SO4
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.2283 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 0.621
+--------------------------------------------
+Salt: Na2SO4
+Molality: 1.800 mol/kg
+Molarity: 1.802 M
+Estimated Density: 1.2567 g/mL
+Number of particles of solute: 120
+Mole Fraction: 0.031
+Osmotic Coefficient: 0.620
+--------------------------------------------
+Salt: NH42SO4
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0141 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.767
+--------------------------------------------
+Salt: NH42SO4
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0273 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.731
+--------------------------------------------
+Salt: NH42SO4
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0405 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.707
+--------------------------------------------
+Salt: NH42SO4
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0537 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.690
+--------------------------------------------
+Salt: NH42SO4
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0670 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.677
+--------------------------------------------
+Salt: NH42SO4
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0802 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.667
+--------------------------------------------
+Salt: NH42SO4
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.0934 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.658
+--------------------------------------------
+Salt: NH42SO4
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.1066 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.652
+--------------------------------------------
+Salt: MgCl2
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0104 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.861
+--------------------------------------------
+Salt: MgCl2
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0199 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.877
+--------------------------------------------
+Salt: MgCl2
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0294 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.895
+--------------------------------------------
+Salt: MgCl2
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0390 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.919
+--------------------------------------------
+Salt: MgCl2
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0485 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.947
+--------------------------------------------
+Salt: MgCl2
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0580 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.976
+--------------------------------------------
+Salt: MgCl2
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.0676 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 1.004
+--------------------------------------------
+Salt: MgCl2
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.0771 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 1.036
+--------------------------------------------
+Salt: MgCl2
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.0866 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 1.071
+--------------------------------------------
+Salt: MgCl2
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.0961 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 1.108
+--------------------------------------------
+Salt: MgCl2
+Molality: 1.200 mol/kg
+Molarity: 1.201 M
+Estimated Density: 1.1152 g/mL
+Number of particles of solute: 80
+Mole Fraction: 0.021
+Osmotic Coefficient: 1.184
+--------------------------------------------
+Salt: MgCl2
+Molality: 1.400 mol/kg
+Molarity: 1.401 M
+Estimated Density: 1.1343 g/mL
+Number of particles of solute: 94
+Mole Fraction: 0.025
+Osmotic Coefficient: 1.264
+--------------------------------------------
+Salt: MgCl2
+Molality: 1.600 mol/kg
+Molarity: 1.601 M
+Estimated Density: 1.1533 g/mL
+Number of particles of solute: 107
+Mole Fraction: 0.028
+Osmotic Coefficient: 1.347
+--------------------------------------------
+Salt: MgCl2
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.1914 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 1.523
+--------------------------------------------
+Salt: MgCl2
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.2867 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 2.010
+--------------------------------------------
+Salt: MgCl2
+Molality: 4.000 mol/kg
+Molarity: 4.003 M
+Estimated Density: 1.3820 g/mL
+Number of particles of solute: 267
+Mole Fraction: 0.067
+Osmotic Coefficient: 2.521
+--------------------------------------------
+Salt: MgCl2
+Molality: 4.500 mol/kg
+Molarity: 4.504 M
+Estimated Density: 1.4297 g/mL
+Number of particles of solute: 300
+Mole Fraction: 0.075
+Osmotic Coefficient: 2.783
+--------------------------------------------
+Salt: NH42HP
+Molality: 0.100 mol/kg
+Molarity: 0.100 M
+Estimated Density: 1.0124 g/mL
+Number of particles of solute: 7
+Mole Fraction: 0.002
+Osmotic Coefficient: 0.890
+--------------------------------------------
+Salt: NH42HP
+Molality: 0.200 mol/kg
+Molarity: 0.200 M
+Estimated Density: 1.0239 g/mL
+Number of particles of solute: 14
+Mole Fraction: 0.004
+Osmotic Coefficient: 0.847
+--------------------------------------------
+Salt: NH42HP
+Molality: 0.300 mol/kg
+Molarity: 0.300 M
+Estimated Density: 1.0354 g/mL
+Number of particles of solute: 20
+Mole Fraction: 0.005
+Osmotic Coefficient: 0.816
+--------------------------------------------
+Salt: NH42HP
+Molality: 0.400 mol/kg
+Molarity: 0.400 M
+Estimated Density: 1.0469 g/mL
+Number of particles of solute: 27
+Mole Fraction: 0.007
+Osmotic Coefficient: 0.790
+--------------------------------------------
+Salt: NH42HP
+Molality: 0.500 mol/kg
+Molarity: 0.500 M
+Estimated Density: 1.0584 g/mL
+Number of particles of solute: 34
+Mole Fraction: 0.009
+Osmotic Coefficient: 0.770
+--------------------------------------------
+Salt: NH42HP
+Molality: 0.600 mol/kg
+Molarity: 0.601 M
+Estimated Density: 1.0699 g/mL
+Number of particles of solute: 40
+Mole Fraction: 0.011
+Osmotic Coefficient: 0.748
+--------------------------------------------
+Salt: NH42HP
+Molality: 0.700 mol/kg
+Molarity: 0.701 M
+Estimated Density: 1.0814 g/mL
+Number of particles of solute: 47
+Mole Fraction: 0.012
+Osmotic Coefficient: 0.738
+--------------------------------------------
+Salt: NH42HP
+Molality: 0.800 mol/kg
+Molarity: 0.801 M
+Estimated Density: 1.0929 g/mL
+Number of particles of solute: 54
+Mole Fraction: 0.014
+Osmotic Coefficient: 0.720
+--------------------------------------------
+Salt: NH42HP
+Molality: 0.900 mol/kg
+Molarity: 0.901 M
+Estimated Density: 1.1045 g/mL
+Number of particles of solute: 60
+Mole Fraction: 0.016
+Osmotic Coefficient: 0.710
+--------------------------------------------
+Salt: NH42HP
+Molality: 1.000 mol/kg
+Molarity: 1.001 M
+Estimated Density: 1.1160 g/mL
+Number of particles of solute: 67
+Mole Fraction: 0.018
+Osmotic Coefficient: 0.701
+--------------------------------------------
+Salt: NH42HP
+Molality: 1.500 mol/kg
+Molarity: 1.501 M
+Estimated Density: 1.1735 g/mL
+Number of particles of solute: 100
+Mole Fraction: 0.026
+Osmotic Coefficient: 0.658
+--------------------------------------------
+Salt: NH42HP
+Molality: 2.000 mol/kg
+Molarity: 2.002 M
+Estimated Density: 1.2311 g/mL
+Number of particles of solute: 134
+Mole Fraction: 0.035
+Osmotic Coefficient: 0.630
+--------------------------------------------
+Salt: NH42HP
+Molality: 2.500 mol/kg
+Molarity: 2.502 M
+Estimated Density: 1.2887 g/mL
+Number of particles of solute: 167
+Mole Fraction: 0.043
+Osmotic Coefficient: 0.608
+--------------------------------------------
+Salt: NH42HP
+Molality: 3.000 mol/kg
+Molarity: 3.003 M
+Estimated Density: 1.3462 g/mL
+Number of particles of solute: 200
+Mole Fraction: 0.051
+Osmotic Coefficient: 0.587
+--------------------------------------------
+Salt: NH42HP
+Molality: 3.500 mol/kg
+Molarity: 3.503 M
+Estimated Density: 1.4038 g/mL
+Number of particles of solute: 234
+Mole Fraction: 0.059
+Osmotic Coefficient: 0.573
+--------------------------------------------

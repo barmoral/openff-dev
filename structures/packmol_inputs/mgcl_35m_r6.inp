@@ -1,0 +1,32 @@
+#
+# 35m MGCL and water
+#
+seed -1
+tolerance 2.0
+
+structure ../structures/water.pdb
+  number 3700
+  inside box 0. 0. 0 48. 48. 48.
+end structure
+
+structure ../structures/water.pdb
+  number 3700
+  inside box 0. 0. 48 48. 48. 96.
+end structure
+
+structure ../structures/water.pdb
+  number 3700
+  inside box 0. 0. 96 48. 48. 144.
+end structure
+
+structure ../structures/mg.pdb
+  number 233
+  inside box 0. 0. 48 48. 48. 96.
+end structure
+
+structure ../structures/cl.pdb
+  number 466
+  inside box 0. 0. 48 48. 48. 96.
+end structure
+
+output mgcl_35m_r6.pdb

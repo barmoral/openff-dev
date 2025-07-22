@@ -1,0 +1,32 @@
+#
+# 25m CSBR and water
+#
+seed -1
+tolerance 2.0
+
+structure ../structures/water.pdb
+  number 3700
+  inside box 0. 0. 0 48. 48. 48.
+end structure
+
+structure ../structures/water.pdb
+  number 3700
+  inside box 0. 0. 48 48. 48. 96.
+end structure
+
+structure ../structures/water.pdb
+  number 3700
+  inside box 0. 0. 96 48. 48. 144.
+end structure
+
+structure ../structures/cs.pdb
+  number 167
+  inside box 0. 0. 48 48. 48. 96.
+end structure
+
+structure ../structures/br.pdb
+  number 167
+  inside box 0. 0. 48 48. 48. 96.
+end structure
+
+output csbr_25m_r13.pdb
