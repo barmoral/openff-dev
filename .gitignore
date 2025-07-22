@@ -1,0 +1,5 @@
+*.xtc
+*.dcd
+*.lock
+EXTRA/
+osmotic_calculations/
