@@ -4,3 +4,6 @@
 EXTRA/
 osmotic_calculations/
 *pycache*
+HP_final/HP_analysis_BM.ipynb
+HP_final/HP_analysis_MgCl2.ipynb
+HP_final/HP_analysis_NaNO3.ipynb
