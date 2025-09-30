@@ -8,7 +8,7 @@ import logging
 logging.basicConfig(
     level=logging.INFO
 )
-
+logging.getLogger('openff.interchange.smirnoff._nonbonded').setLevel(logging.CRITICAL) # silence voluminous "Preset charges" logs outputted on every atom in an Interchange
 import warnings
 warnings.filterwarnings('ignore')
 
@@ -57,6 +57,7 @@ from polymerist.mdtools.openfftools import FF_PATH_REGISTRY, FF_DIR_REGISTRY
 
 from polymerist.mdtools.openmmtools.execution import run_simulation_schedule
 from polymerist.mdtools.openmmtools.parameters import SimulationParameters
+from polymerist.mdtools.openmmtools.evaluation import get_context_positions
 
 from openff.units import UnitRegistry
 ureg = UnitRegistry()
@@ -163,12 +164,6 @@ def modify_omm_flat_bottom(concentration,repnum,input_picklefile,ion1,ion2,wdir,
             fb_force.addParticle(atom_index, [])
 
         omm_sys.addForce(fb_force)
-
-        # Step 3: Add anisotropic barostat to see if higher concentrations are possible for polyatomics
-        pressure_vector = Vec3(1.01325, 1.01325, 0.0) * atmosphere
-        anisotropic_force=MonteCarloAnisotropicBarostat(pressure_vector,300,True,True,False)
-
-        omm_sys.addForce(anisotropic_force)
 
         # Save each replicate's results in the dictionary
         omm_objects_mod[f"r{r}"] = {
@@ -292,12 +287,6 @@ def modify_omm_harmonic(concentration,repnum,input_picklefile,ion1,ion2,wdir,cen
 
         omm_sys.addForce(fb_force)
 
-        # Step 3: Add anisotropic barostat to see if higher concentrations are possible for polyatomics
-        pressure_vector = Vec3(1.01325, 1.01325, 0.0) * atmosphere
-        anisotropic_force=MonteCarloAnisotropicBarostat(pressure_vector,300,True,True,False)
-
-        omm_sys.addForce(anisotropic_force)
-
         # Save each replicate's results in the dictionary
         omm_objects_mod[f"r{r}"] = {
             'topology': omm_top,
@@ -382,9 +371,10 @@ def build_system_HP(concentration, repnum, ion1, ion2, wdir, ff, water, salt_dic
     
 def simulation_exists(base_dir, postfix):
     """Check if both equil and prod simulation folders already exist."""
-    equil_dir = os.path.join(base_dir, f"equil_sim_{postfix}")
+    equil_NVT_dir = os.path.join(base_dir, f"equil_sim_NVT_{postfix}")
+    equil_NPT_dir = os.path.join(base_dir, f"equil_sim_NPT_{postfix}")
     prod_dir = os.path.join(base_dir, f"prod_sim_{postfix}")
-    return os.path.exists(equil_dir) and os.path.exists(prod_dir)
+    return os.path.exists(equil_NVT_dir) and os.path.exists(equil_NPT_dir) and os.path.exists(prod_dir)
 
 
 def copy_file(source_path, destination_path):
@@ -480,7 +470,7 @@ def parse_args() -> Namespace:
     parser.add_argument('-spp', '--sim_param_paths',
         help='One or more serialized simulation presets; \
             \nsimulations built from these presets will be run in the order they are provided here',
-        type=Path, nargs='+', required=True
+        type=Path, nargs='+', required=False
     )
     parser.add_argument('-ff', '--ff_files', help='Force field file or files to be used', nargs='+', required=True)
     parser.add_argument('-r', '--restraint_type', help='The kind of potential restraint to apply to ions in the systems', choices=['HP', 'FBP'], required=True)
@@ -570,12 +560,26 @@ def main():
 
     rdir = Path(f'{wdir}/result_files')
     
-
     
-    ff_specifiers = [ 
-        FF_DIR_REGISTRY['openforcefields'] / f'{args.ff_files[0]}',
-        FF_DIR_REGISTRY['openforcefields'] / f'{args.ff_files[1]}'
-    ]
+    ff_specifiers = []
+
+    for ff_file in args.ff_files:
+        registry_path = FF_DIR_REGISTRY.get('openforcefields')
+        
+        # Try registry first
+        if registry_path is not None:
+            ff_path = registry_path / ff_file
+            if ff_path.exists():
+                ff_specifiers.append(ff_path)
+                continue  # success, go to next ff_file
+
+        # Fallback to treating it as a direct path
+        ff_path = Path(ff_file)
+        if ff_path.exists():
+            ff_specifiers.append(ff_path)
+        else:
+            raise FileNotFoundError(f"Missing force field file: {ff_path}")
+
 
     ff_specifiers.append(Path('/scratch/alpine/bamo6610/osmotic-calculations/custom_forcefields/openff-2.1.0-mg.offxml'))
 
@@ -622,11 +626,11 @@ def main():
                 print(f"Skipping {postfix}, simulation folders already exist.")
                 continue
 
-            schedule : dict[str, SimulationParameters] = {
-            f'equil_sim_{postfix}' : SimulationParameters(
+            schedule1 : dict[str, SimulationParameters] = {
+            f'equil_sim_NVT_{postfix}' : SimulationParameters(
                 integ_params=IntegratorParameters(
                     time_step=2*femtoseconds,
-                    total_time=2*nanosecond,
+                    total_time=50*picosecond,
                     num_samples=100,
                 ),
                 thermo_params=ThermoParameters(
@@ -636,7 +640,24 @@ def main():
                 reporter_params=ReporterParameters(
                     traj_ext='dcd',
                 ),
-            ),
+            )
+            }
+            schedule2 : dict[str, SimulationParameters] = {
+            f'equil_sim_NPT_{postfix}' : SimulationParameters(
+                integ_params=IntegratorParameters(
+                    time_step=2*femtoseconds,
+                    total_time=3*nanosecond,
+                    num_samples=100,
+                ),
+                thermo_params=ThermoParameters(
+                    ensemble='NVT',
+                    temperature=300 * kelvin,
+                    
+                ),
+                reporter_params=ReporterParameters(
+                    traj_ext='dcd',
+                ),
+            ),          
             f'prod_sim_{postfix}' : SimulationParameters(
                 integ_params=IntegratorParameters(
                     time_step=2*femtoseconds,
@@ -649,21 +670,69 @@ def main():
                 ),
                 reporter_params=ReporterParameters(),
             ),
-        }
+            }
 
             omm_top = omm_modobj_all[f'{mi1}m'][f'r{r}']['topology']
             omm_sys = omm_modobj_all[f'{mi1}m'][f'r{r}']['system']
             omm_pos = omm_modobj_all[f'{mi1}m'][f'r{r}']['positions']
 
+            logging.info(omm_sys.getForces())
+
             # apply appropriate restraint
-            history = run_simulation_schedule(
+            history1 = run_simulation_schedule( 
                 working_dir=wdir,
-                schedule=schedule,
+                schedule=schedule1,
                 init_top=omm_top,
-                init_sys=omm_sys,
+                init_sys=omm_sys, 
                 init_pos=omm_pos,
                 return_history=True
                 )
+            
+
+            nvt_sim=history1[f'equil_sim_NVT_{postfix}']['simulation']
+            nvt_sys=nvt_sim.system
+            # Add anisotropic barostat to see if higher concentrations are possible for polyatomics
+            pressure_vector = Vec3(1.01325, 1.01325, 0.0) * atmosphere
+            anisotropic_force=MonteCarloAnisotropicBarostat(pressure_vector,300,True,True,False)
+            nvt_sys.addForce(anisotropic_force)
+            logging.info(nvt_sys.getForces())
+            nvt_top=nvt_sim.topology
+            nvt_pos=get_context_positions(nvt_sim.context)
+            
+            # apply appropriate restraint
+            history2 = run_simulation_schedule( 
+                working_dir=wdir,
+                schedule=schedule2,
+                init_top=nvt_top,
+                init_sys=nvt_sys,
+                init_pos=nvt_pos,
+                return_history=True
+                )
+            
+            # npt_sim=history2[f'equil_sim_NPT_{postfix}']['simulation']
+            # npt_sys=npt_sim.system
+            # # Find and remove MonteCarloAnisotropicBarostat
+            # for i in range(npt_sys.getNumForces()):
+            #     force = npt_sys.getForce(i)
+            #     if isinstance(force, MonteCarloAnisotropicBarostat):
+            #         print(f"Removing force at index {i}: {force}")
+            #         npt_sys.removeForce(i)
+            #         break  # Exit after removing to avoid index shifting issues
+            # logging.info(npt_sys.getForces())
+            # npt_top=npt_sim.topology
+            # npt_pos=get_context_positions(npt_sim.context)
+
+            #  # apply appropriate restraint
+            # history = run_simulation_schedule( 
+            #     working_dir=wdir,
+            #     schedule=schedule3,
+            #     init_top=npt_top,
+            #     init_sys=npt_sys,
+            #     init_pos=npt_pos,
+            #     return_history=True
+            #     )
+            
+
 
     copy_simulation_outputs(molalities=concentration_list, N_replicates=repnumber, wdir=wdir, rdir=rdir)
 
