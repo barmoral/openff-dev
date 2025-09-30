@@ -3603,7 +3603,7 @@ salt_infos = [
         "density": "1.1367"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 0.1,
         "molarity": 0.1,
         "num_particles": 7,
@@ -3611,7 +3611,7 @@ salt_infos = [
         "density": "1.0094"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 0.2,
         "molarity": 0.2,
         "num_particles": 14,
@@ -3619,7 +3619,7 @@ salt_infos = [
         "density": "1.0168"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 0.3,
         "molarity": 0.3,
         "num_particles": 20,
@@ -3627,7 +3627,7 @@ salt_infos = [
         "density": "1.0244"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 0.4,
         "molarity": 0.4,
         "num_particles": 27,
@@ -3635,7 +3635,7 @@ salt_infos = [
         "density": "1.0319"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 0.5,
         "molarity": 0.5,
         "num_particles": 34,
@@ -3643,7 +3643,7 @@ salt_infos = [
         "density": "1.0434"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 0.6,
         "molarity": 0.601,
         "num_particles": 40,
@@ -3651,7 +3651,7 @@ salt_infos = [
         "density": "1.0511"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 0.7,
         "molarity": 0.701,
         "num_particles": 47,
@@ -3659,7 +3659,7 @@ salt_infos = [
         "density": "1.0589"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 0.8,
         "molarity": 0.801,
         "num_particles": 54,
@@ -3667,7 +3667,7 @@ salt_infos = [
         "density": "1.0668"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 0.9,
         "molarity": 0.901,
         "num_particles": 60,
@@ -3675,7 +3675,7 @@ salt_infos = [
         "density": "1.0747"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 1.0,
         "molarity": 1.001,
         "num_particles": 67,
@@ -3683,7 +3683,7 @@ salt_infos = [
         "density": "1.0826"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 1.2,
         "molarity": 1.201,
         "num_particles": 80,
@@ -3691,7 +3691,7 @@ salt_infos = [
         "density": "1.0988"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 1.4,
         "molarity": 1.401,
         "num_particles": 94,
@@ -3699,7 +3699,7 @@ salt_infos = [
         "density": "1.107"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 1.6,
         "molarity": 1.601,
         "num_particles": 107,
@@ -3707,7 +3707,7 @@ salt_infos = [
         "density": "1.1236"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 1.8,
         "molarity": 1.802,
         "num_particles": 120,
@@ -3715,7 +3715,7 @@ salt_infos = [
         "density": "1.1404"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 2.0,
         "molarity": 2.002,
         "num_particles": 134,
@@ -3723,7 +3723,7 @@ salt_infos = [
         "density": "1.149"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 2.5,
         "molarity": 2.502,
         "num_particles": 167,
@@ -3731,7 +3731,7 @@ salt_infos = [
         "density": "1.1931"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 3.0,
         "molarity": 3.003,
         "num_particles": 200,
@@ -3739,7 +3739,7 @@ salt_infos = [
         "density": "1.2113"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 3.5,
         "molarity": 3.503,
         "num_particles": 234,
@@ -3747,7 +3747,7 @@ salt_infos = [
         "density": "1.2488"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 4.0,
         "molarity": 4.003,
         "num_particles": 267,
@@ -3941,7 +3941,7 @@ salt_infos = [
     {
         "salt": "MgCl",
         "molality": 0.2,
-        "molarity": 0.2,
+        "molarity": 0.199,
         "num_particles": 14,
         "osmotic_coefficient": 0.877,
         "density": "1.0144"
@@ -3949,7 +3949,7 @@ salt_infos = [
     {
         "salt": "MgCl",
         "molality": 0.3,
-        "molarity": 0.3,
+        "molarity": 0.297,
         "num_particles": 20,
         "osmotic_coefficient": 0.895,
         "density": "1.0226"
@@ -3957,7 +3957,7 @@ salt_infos = [
     {
         "salt": "MgCl",
         "molality": 0.4,
-        "molarity": 0.4,
+        "molarity": 0.395,
         "num_particles": 27,
         "osmotic_coefficient": 0.919,
         "density": "1.0309"
@@ -3965,7 +3965,7 @@ salt_infos = [
     {
         "salt": "MgCl",
         "molality": 0.5,
-        "molarity": 0.5,
+        "molarity": 0.494,
         "num_particles": 34,
         "osmotic_coefficient": 0.947,
         "density": "1.0394"
@@ -3973,7 +3973,7 @@ salt_infos = [
     {
         "salt": "MgCl",
         "molality": 0.6,
-        "molarity": 0.601,
+        "molarity": 0.591,
         "num_particles": 40,
         "osmotic_coefficient": 0.976,
         "density": "1.04629"
@@ -3981,7 +3981,7 @@ salt_infos = [
     {
         "salt": "MgCl",
         "molality": 0.7,
-        "molarity": 0.701,
+        "molarity": 0.690,
         "num_particles": 47,
         "osmotic_coefficient": 1.004,
         "density": "1.0479"
@@ -3989,7 +3989,7 @@ salt_infos = [
     {
         "salt": "MgCl",
         "molality": 0.8,
-        "molarity": 0.801,
+        "molarity": 0.786,
         "num_particles": 54,
         "osmotic_coefficient": 1.036,
         "density": "1.0564"
@@ -3997,7 +3997,7 @@ salt_infos = [
     {
         "salt": "MgCl",
         "molality": 0.9,
-        "molarity": 0.901,
+        "molarity": 0.882,
         "num_particles": 60,
         "osmotic_coefficient": 1.071,
         "density": "1.0651"
@@ -4005,7 +4005,7 @@ salt_infos = [
     {
         "salt": "MgCl",
         "molality": 1.0,
-        "molarity": 1.001,
+        "molarity": 0.977,
         "num_particles": 67,
         "osmotic_coefficient": 1.108,
         "density": "1.0738"
@@ -4013,7 +4013,7 @@ salt_infos = [
     {
         "salt": "MgCl",
         "molality": 1.2,
-        "molarity": 1.201,
+        "molarity": 1.169,
         "num_particles": 80,
         "osmotic_coefficient": 1.184,
         "density": "1.0826"
@@ -4021,7 +4021,7 @@ salt_infos = [
     {
         "salt": "MgCl",
         "molality": 1.4,
-        "molarity": 1.401,
+        "molarity": 1.356,
         "num_particles": 94,
         "osmotic_coefficient": 1.264,
         "density": "1.1005"
@@ -4029,7 +4029,7 @@ salt_infos = [
     {
         "salt": "MgCl",
         "molality": 1.6,
-        "molarity": 1.601,
+        "molarity": 1.540,
         "num_particles": 107,
         "osmotic_coefficient": 1.347,
         "density": "1.11047"
@@ -4037,7 +4037,7 @@ salt_infos = [
     {
         "salt": "MgCl",
         "molality": 2.0,
-        "molarity": 2.002,
+        "molarity": 1.911,
         "num_particles": 134,
         "osmotic_coefficient": 1.523,
         "density": "1.1372"
@@ -4045,7 +4045,7 @@ salt_infos = [
     {
         "salt": "MgCl",
         "molality": 2.5,
-        "molarity": 2.5,
+        "molarity": 2.348,
         "num_particles": 167,
         "osmotic_coefficient": 1.762,
         "density": "1.240"
@@ -4053,7 +4053,7 @@ salt_infos = [
     {
         "salt": "MgCl",
         "molality": 3.0,
-        "molarity": 3.003,
+        "molarity": 2.768,
         "num_particles": 200,
         "osmotic_coefficient": 2.01,
         "density": "1.1938"
@@ -4061,7 +4061,7 @@ salt_infos = [
     {
         "salt": "MgCl",
         "molality": 3.5,
-        "molarity": 4.003,
+        "molarity": 3.197,
         "num_particles": 233,
         "osmotic_coefficient": 2.264,
         "density": "1.333"
@@ -4069,7 +4069,7 @@ salt_infos = [
     {
         "salt": "MgCl",
         "molality": 4.0,
-        "molarity": 4.003,
+        "molarity": 3.692,
         "num_particles": 267,
         "osmotic_coefficient": 2.521,
         "density": "1.2555"
@@ -4077,7 +4077,7 @@ salt_infos = [
     {
         "salt": "MgCl",
         "molality": 4.5,
-        "molarity": 4.504,
+        "molarity": 4.022,
         "num_particles": 300,
         "osmotic_coefficient": 2.783,
         "density": "1.2763"
