@@ -15,7 +15,38 @@ Calculations can be performed with two different types of restraints: [Harmonic 
 
 * I included example script files to use in a cluster called [run_HP.sh](https://github.com/barmoral/openff-dev/blob/main/run_HP.sh) and [run_FBP.sh](https://github.com/barmoral/openff-dev/blob/main/run_FBP.sh), which can also give an idea of how to run the calculations from any CLI.
 
+## To run analysis with existing data (sample data for NaCl):
 
+### Steps to run flat-bottom potential analysis:
+1. Download directory FBP_NaCl_TIP3P and place it in folder called FBP_final/
+2. Open notebook called FBP_analysis.ipynb and double check inputs: 
+
+ion1="Na" # Use actual name of cation, with capital letters and lower case 
+ion2="Cl" # Use actual name of anion, with capital letters and lower case 
+center_atom1='Na' # Use actual name of cation, with capital letters and lower case. If polyatomic, specify the ion in the center of the molecule (e.g., for Na use 'Na', for NH4 use 'N') 
+center_atom2='Cl' # Use actual name of cation, with capital letters and lower case. If polyatomic, specify the ion in the center of the molecule (e.g., for Cl or Cl2 use 'Cl', for NO3 use 'N') 
+water='TIP3P' # Specify water model used for labelling purposes and for choosing directory of inputs and outputs 
+ff_used = f'Sage 2.1 + {water}' # Specify name of force field used for experiment 
+vantHoff=2 # Specify van't Hoff factor of salt (e.g., NaCl uses 2, MgCl2 uses 3)
+N_replicates=20 # Specify number of replicates to be analyzed or less if desired
+molalities=[0.1,0.5,1.0,1.4,2.0,2.5,3.0,3.5,4.0] # Specify molalities to be analyzed (can be a list)
+
+### Steps to run harmonic potential analysis:
+1. Download directory HP_NaCl_TIP3P and place it in folder called FBP_final/
+2. Run notebook called HP_analysis.ipynb and double check inputs 
+
+ion1="Na" # Use actual name of cation, with capital letters and lower case 
+ion2="Cl" # Use actual name of anion, with capital letters and lower case 
+center_atom1='Na' # Use actual name of cation, with capital letters and lower case. If polyatomic, specify the ion in the center of the molecule (e.g., for Na use 'Na', for NH4 use 'N') 
+center_atom2='Cl' # Use actual name of cation, with capital letters and lower case. If polyatomic, specify the ion in the center of the molecule (e.g., for Cl or Cl2 use 'Cl', for NO3 use 'N') 
+water='TIP3P' # Specify water model used for labelling purposes and for choosing directory of inputs and outputs 
+ff_used = f'Sage 2.1 + {water}' # Specify name of force field used for experiment 
+vantHoff=2 # Specify van't Hoff factor of salt (e.g., NaCl uses 2, MgCl2 uses 3)
+N_replicates=6 # Specify number of replicates to be analyzed or less if desired
+molalities=[4.0] # Specify molalities to be analyzed (should be just one, the attempted max concentration, for harmonic potentials)
+
+
+## To regenerate data:
 ### Steps to run Harmonic Potential calculations and analysis:
 1. Define maximum concentration desired and corresponding number of ions needed in the given volume. (I used 4 molal as maximum concentration, which requires 217 NaCl molecules (217 of each ion)). 
 2. Estimate the force constant using notebook [force_constant_hps.ipynb](https://github.com/barmoral/openff-dev/blob/main/force_constant_hps.ipynb). (0.68095403 kJ/mol/nm^2 was the result I obtained)
