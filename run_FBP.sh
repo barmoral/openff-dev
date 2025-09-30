@@ -31,8 +31,7 @@ export FF_IONS='openff-2.1.0.offxml'
 export CASE=${RESTRAINT}_$(echo ${SALT} | tr -d ' ')_${WATER}
 export FF_FILES="$FF_WATER $FF_IONS"
 
-python build_sim_params.py 
-python osmotic_sim_dispatch.py -n ${CASE} -s ${SALT} -ci ${CENTERIONS} -w ${WATER} -rn ${REPNUM} -m ${CONCENTRATIONS} -spp sim_param_sets/equil_sim.json sim_param_sets/prod_sim.json -ff ${FF_FILES} -r ${RESTRAINT} -k ${FORCEK} -du nanometer
+python osmotic_sim_dispatch.py -n ${CASE} -s ${SALT} -ci ${CENTERIONS} -w ${WATER} -rn ${REPNUM} -m ${CONCENTRATIONS} -ff ${FF_FILES} -r ${RESTRAINT} -k ${FORCEK} -du nanometer
 echo "$CASE $POSTFIX $PDB_INFILE run"
 
 sacct --format=jobid,jobname,cputime,elapsed
