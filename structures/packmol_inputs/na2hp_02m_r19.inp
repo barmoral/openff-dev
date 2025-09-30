@@ -1,0 +1,32 @@
+#
+# 02m NA2HP and water
+#
+seed -1
+tolerance 2.0
+
+structure ../structures/water.pdb
+  number 3700
+  inside box 0. 0. 0 48. 48. 48.
+end structure
+
+structure ../structures/water.pdb
+  number 3700
+  inside box 0. 0. 48 48. 48. 96.
+end structure
+
+structure ../structures/water.pdb
+  number 3700
+  inside box 0. 0. 96 48. 48. 144.
+end structure
+
+structure ../structures/na.pdb
+  number 13
+  inside box 0. 0. 48 48. 48. 96.
+end structure
+
+structure ../structures/2hp.pdb
+  number 13
+  inside box 0. 0. 48 48. 48. 96.
+end structure
+
+output na2hp_02m_r19.pdb

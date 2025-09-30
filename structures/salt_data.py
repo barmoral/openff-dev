@@ -3603,7 +3603,7 @@ salt_infos = [
         "density": "1.1367"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 0.1,
         "molarity": 0.1,
         "num_particles": 7,
@@ -3611,7 +3611,7 @@ salt_infos = [
         "density": "1.0094"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 0.2,
         "molarity": 0.2,
         "num_particles": 14,
@@ -3619,7 +3619,7 @@ salt_infos = [
         "density": "1.0168"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 0.3,
         "molarity": 0.3,
         "num_particles": 20,
@@ -3627,7 +3627,7 @@ salt_infos = [
         "density": "1.0244"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 0.4,
         "molarity": 0.4,
         "num_particles": 27,
@@ -3635,7 +3635,7 @@ salt_infos = [
         "density": "1.0319"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 0.5,
         "molarity": 0.5,
         "num_particles": 34,
@@ -3643,7 +3643,7 @@ salt_infos = [
         "density": "1.0434"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 0.6,
         "molarity": 0.601,
         "num_particles": 40,
@@ -3651,7 +3651,7 @@ salt_infos = [
         "density": "1.0511"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 0.7,
         "molarity": 0.701,
         "num_particles": 47,
@@ -3659,7 +3659,7 @@ salt_infos = [
         "density": "1.0589"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 0.8,
         "molarity": 0.801,
         "num_particles": 54,
@@ -3667,7 +3667,7 @@ salt_infos = [
         "density": "1.0668"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 0.9,
         "molarity": 0.901,
         "num_particles": 60,
@@ -3675,7 +3675,7 @@ salt_infos = [
         "density": "1.0747"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 1.0,
         "molarity": 1.001,
         "num_particles": 67,
@@ -3683,7 +3683,7 @@ salt_infos = [
         "density": "1.0826"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 1.2,
         "molarity": 1.201,
         "num_particles": 80,
@@ -3691,7 +3691,7 @@ salt_infos = [
         "density": "1.0988"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 1.4,
         "molarity": 1.401,
         "num_particles": 94,
@@ -3699,7 +3699,7 @@ salt_infos = [
         "density": "1.107"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 1.6,
         "molarity": 1.601,
         "num_particles": 107,
@@ -3707,7 +3707,7 @@ salt_infos = [
         "density": "1.1236"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 1.8,
         "molarity": 1.802,
         "num_particles": 120,
@@ -3715,7 +3715,7 @@ salt_infos = [
         "density": "1.1404"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 2.0,
         "molarity": 2.002,
         "num_particles": 134,
@@ -3723,7 +3723,7 @@ salt_infos = [
         "density": "1.149"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 2.5,
         "molarity": 2.502,
         "num_particles": 167,
@@ -3731,7 +3731,7 @@ salt_infos = [
         "density": "1.1931"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 3.0,
         "molarity": 3.003,
         "num_particles": 200,
@@ -3739,7 +3739,7 @@ salt_infos = [
         "density": "1.2113"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 3.5,
         "molarity": 3.503,
         "num_particles": 234,
@@ -3747,7 +3747,7 @@ salt_infos = [
         "density": "1.2488"
     },
     {
-        "salt": "NaH2PO4",
+        "salt": "Na2HP",
         "molality": 4.0,
         "molarity": 4.003,
         "num_particles": 267,
